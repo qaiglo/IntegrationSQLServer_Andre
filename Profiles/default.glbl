@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'jdbc:sqlserver://35.229.139.231;databaseName=TEST'</initValue>
+      <name>db_url</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'sa'</initValue>
+      <name>db_username</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'3K123451.'</initValue>
+      <name>db_password</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
